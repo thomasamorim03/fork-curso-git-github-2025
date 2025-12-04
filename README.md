@@ -64,4 +64,5 @@ Pessoas participantes:
 - Mateus Dantas
 - Tales
 - Téo Calvo
+- Jose
 - Thomas
