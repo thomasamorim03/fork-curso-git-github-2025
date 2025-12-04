@@ -65,3 +65,4 @@ Pessoas participantes:
 - Tales
 - Téo Calvo
 - Jose
+- Thomas
